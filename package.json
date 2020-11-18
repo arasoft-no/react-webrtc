@@ -4,7 +4,7 @@
   "description": "Useful components for your WebRTC needs",
   "author": "herkit",
   "license": "MIT",
-  "repository": "herkit/@arasoft/webrtc",
+  "repository": "arasoft-no/webrtc",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
