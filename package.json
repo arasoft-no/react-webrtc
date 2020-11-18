@@ -1,10 +1,10 @@
 {
-  "name": "@arasoft/webrtc",
+  "name": "@arasoft/react-webrtc",
   "version": "1.0.0",
   "description": "Useful components for your WebRTC needs",
   "author": "herkit",
   "license": "MIT",
-  "repository": "arasoft-no/webrtc",
+  "repository": "arasoft-no/react-webrtc",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",

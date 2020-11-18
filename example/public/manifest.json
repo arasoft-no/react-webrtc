@@ -1,6 +1,6 @@
 {
-  "short_name": "@arasoft/webrtc",
-  "name": "@arasoft/webrtc",
+  "short_name": "@arasoft/react-webrtc",
+  "name": "@arasoft/react-webrtc",
   "icons": [
     {
       "src": "favicon.ico",
